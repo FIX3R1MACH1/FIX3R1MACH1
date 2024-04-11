@@ -5,10 +5,6 @@
 
 - 💬 Ask me about **SQL, JavaScript and Analyst code in ERPs**
 
-- 📫 How to reach me **sca.dev.silva@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/carlos-alberto-rimachi-silva-365839258/](https://www.linkedin.com/in/carlos-alberto-rimachi-silva-365839258/)
-
 - ⚡ Fun fact **I think I'm a egocentric**
 
 <p align="left">
